@@ -1,0 +1,2 @@
+Teste de sincronização entre repositório remoto e local. 
+Criação de pasta e arquivo em repositório local e depois sincronização com o repositório remoto no Github.
