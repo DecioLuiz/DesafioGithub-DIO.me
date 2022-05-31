@@ -1,2 +1,2 @@
-# Repositório de desafio de projeto do Bootcamp Unimed-BH - Plataforma DIO
-Primeiro repositório/desafio de projeto sobre Git/Github - DIO
+# Desafio de projeto do Bootcamp Unimed-BH - Plataforma DIO
+Primeiro criado para o desafio de projeto.
